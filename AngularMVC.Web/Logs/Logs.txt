@@ -1,0 +1,101 @@
+DEBUG 2014-09-06 12:22:21,397 [1    ] Abp.Modules.AbpModuleLoader              - Loading Abp modules...
+DEBUG 2014-09-06 12:22:21,461 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Abp.Startup.Application.AbpApplicationModule, Abp.Application, Version=0.3.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-09-06 12:22:21,462 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Abp.Modules.AbpStartupModule, Abp, Version=0.3.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-09-06 12:22:21,464 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Abp.Startup.Infrastructure.EntityFramework.AbpEntityFrameworkModule, Abp.Infrastructure.EntityFramework, Version=0.3.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-09-06 12:22:21,498 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Abp.Web.Startup.AbpWebModule, Abp.Web, Version=0.3.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-09-06 12:22:21,498 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Abp.WebApi.Startup.AbpWebApiModule, Abp.Web.Api, Version=0.3.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-09-06 12:22:21,500 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Abp.Web.Mvc.Startup.AbpWebMvcModule, Abp.Web.Mvc, Version=0.3.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-09-06 12:22:21,767 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: AngularMVC.AngularMVCCoreModule, AngularMVC.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-09-06 12:22:21,767 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: AngularMVC.AngularMVCApplicationModule, AngularMVC.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-09-06 12:22:21,769 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: AngularMVC.AngularMVCDataModule, AngularMVC.Infrastructure.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-09-06 12:22:21,769 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: AngularMVC.AngularMVCWebApiModule, AngularMVC.WebApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-09-06 12:22:21,770 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: AngularMVC.Web.AngularMVCWebModule, AngularMVC.Web, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-09-06 12:22:22,385 [1    ] Abp.Modules.AbpModuleLoader              - 11 modules loaded.
+DEBUG 2014-10-01 19:16:55,477 [1    ] Abp.Modules.AbpModuleLoader              - Loading Abp modules...
+DEBUG 2014-10-01 19:16:55,530 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Abp.Startup.Application.AbpApplicationModule, Abp.Application, Version=0.3.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-10-01 19:16:55,531 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Abp.Modules.AbpStartupModule, Abp, Version=0.3.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-10-01 19:16:55,533 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Abp.Startup.Infrastructure.EntityFramework.AbpEntityFrameworkModule, Abp.Infrastructure.EntityFramework, Version=0.3.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-10-01 19:16:55,540 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Abp.Web.Startup.AbpWebModule, Abp.Web, Version=0.3.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-10-01 19:16:55,540 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Abp.WebApi.Startup.AbpWebApiModule, Abp.Web.Api, Version=0.3.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-10-01 19:16:55,543 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Abp.Web.Mvc.Startup.AbpWebMvcModule, Abp.Web.Mvc, Version=0.3.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-10-01 19:16:55,544 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: AngularMVC.AngularMVCCoreModule, AngularMVC.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-10-01 19:16:55,544 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: AngularMVC.AngularMVCApplicationModule, AngularMVC.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-10-01 19:16:55,545 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: AngularMVC.AngularMVCDataModule, AngularMVC.Infrastructure.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-10-01 19:16:55,546 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: AngularMVC.AngularMVCWebApiModule, AngularMVC.WebApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-10-01 19:16:55,546 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: AngularMVC.Web.AngularMVCWebModule, AngularMVC.Web, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-10-01 19:16:55,985 [1    ] Abp.Modules.AbpModuleLoader              - 11 modules loaded.
+DEBUG 2014-10-01 19:17:38,360 [1    ] Abp.Modules.AbpModuleLoader              - Loading Abp modules...
+DEBUG 2014-10-01 19:17:38,418 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Abp.Startup.Application.AbpApplicationModule, Abp.Application, Version=0.3.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-10-01 19:17:38,419 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Abp.Modules.AbpStartupModule, Abp, Version=0.3.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-10-01 19:17:38,421 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Abp.Startup.Infrastructure.EntityFramework.AbpEntityFrameworkModule, Abp.Infrastructure.EntityFramework, Version=0.3.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-10-01 19:17:38,429 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Abp.Web.Startup.AbpWebModule, Abp.Web, Version=0.3.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-10-01 19:17:38,429 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Abp.WebApi.Startup.AbpWebApiModule, Abp.Web.Api, Version=0.3.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-10-01 19:17:38,431 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Abp.Web.Mvc.Startup.AbpWebMvcModule, Abp.Web.Mvc, Version=0.3.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-10-01 19:17:38,432 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: AngularMVC.AngularMVCCoreModule, AngularMVC.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-10-01 19:17:38,432 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: AngularMVC.AngularMVCApplicationModule, AngularMVC.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-10-01 19:17:38,433 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: AngularMVC.AngularMVCDataModule, AngularMVC.Infrastructure.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-10-01 19:17:38,434 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: AngularMVC.AngularMVCWebApiModule, AngularMVC.WebApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-10-01 19:17:38,434 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: AngularMVC.Web.AngularMVCWebModule, AngularMVC.Web, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-10-01 19:17:38,864 [1    ] Abp.Modules.AbpModuleLoader              - 11 modules loaded.
+DEBUG 2014-10-01 19:39:09,827 [1    ] Abp.Modules.AbpModuleLoader              - Loading Abp modules...
+DEBUG 2014-10-01 19:39:09,902 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Abp.Startup.Application.AbpApplicationModule, Abp.Application, Version=0.3.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-10-01 19:39:09,903 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Abp.Modules.AbpStartupModule, Abp, Version=0.3.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-10-01 19:39:09,907 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Abp.Startup.Infrastructure.EntityFramework.AbpEntityFrameworkModule, Abp.Infrastructure.EntityFramework, Version=0.3.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-10-01 19:39:09,915 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Abp.Web.Startup.AbpWebModule, Abp.Web, Version=0.3.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-10-01 19:39:09,915 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Abp.WebApi.Startup.AbpWebApiModule, Abp.Web.Api, Version=0.3.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-10-01 19:39:09,918 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Abp.Web.Mvc.Startup.AbpWebMvcModule, Abp.Web.Mvc, Version=0.3.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-10-01 19:39:09,919 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: AngularMVC.AngularMVCCoreModule, AngularMVC.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-10-01 19:39:09,919 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: AngularMVC.AngularMVCApplicationModule, AngularMVC.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-10-01 19:39:09,920 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: AngularMVC.AngularMVCDataModule, AngularMVC.Infrastructure.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-10-01 19:39:09,921 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: AngularMVC.AngularMVCWebApiModule, AngularMVC.WebApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-10-01 19:39:09,921 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: AngularMVC.Web.AngularMVCWebModule, AngularMVC.Web, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-10-01 19:39:10,352 [1    ] Abp.Modules.AbpModuleLoader              - 11 modules loaded.
+DEBUG 2014-10-01 22:25:15,799 [1    ] Abp.Modules.AbpModuleLoader              - Loading Abp modules...
+DEBUG 2014-10-01 22:25:15,869 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Abp.Startup.Application.AbpApplicationModule, Abp.Application, Version=0.3.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-10-01 22:25:15,870 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Abp.Modules.AbpStartupModule, Abp, Version=0.3.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-10-01 22:25:15,872 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Abp.Startup.Infrastructure.EntityFramework.AbpEntityFrameworkModule, Abp.Infrastructure.EntityFramework, Version=0.3.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-10-01 22:25:15,879 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Abp.Web.Startup.AbpWebModule, Abp.Web, Version=0.3.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-10-01 22:25:15,879 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Abp.WebApi.Startup.AbpWebApiModule, Abp.Web.Api, Version=0.3.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-10-01 22:25:15,882 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Abp.Web.Mvc.Startup.AbpWebMvcModule, Abp.Web.Mvc, Version=0.3.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-10-01 22:25:15,883 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: AngularMVC.AngularMVCCoreModule, AngularMVC.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-10-01 22:25:15,883 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: AngularMVC.AngularMVCApplicationModule, AngularMVC.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-10-01 22:25:15,885 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: AngularMVC.AngularMVCDataModule, AngularMVC.Infrastructure.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-10-01 22:25:15,886 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: AngularMVC.AngularMVCWebApiModule, AngularMVC.WebApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-10-01 22:25:15,886 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: AngularMVC.Web.AngularMVCWebModule, AngularMVC.Web, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-10-01 22:25:16,316 [1    ] Abp.Modules.AbpModuleLoader              - 11 modules loaded.
+ERROR 2014-10-01 22:25:19,483 [11   ] Default                                  - The view '~/App/Main/views/task/list.cshtml' or its master was not found or no view engine supports the searched locations. The following locations were searched:
+~/App/Main/views/task/list.cshtml
+System.InvalidOperationException: The view '~/App/Main/views/task/list.cshtml' or its master was not found or no view engine supports the searched locations. The following locations were searched:
+~/App/Main/views/task/list.cshtml
+   at System.Web.Mvc.ViewResult.FindView(ControllerContext context)
+   at System.Web.Mvc.ViewResultBase.ExecuteResult(ControllerContext context)
+   at System.Web.Mvc.ControllerActionInvoker.InvokeActionResult(ControllerContext controllerContext, ActionResult actionResult)
+   at System.Web.Mvc.ControllerActionInvoker.InvokeActionResultFilterRecursive(IList`1 filters, Int32 filterIndex, ResultExecutingContext preContext, ControllerContext controllerContext, ActionResult actionResult)
+   at System.Web.Mvc.ControllerActionInvoker.InvokeActionResultFilterRecursive(IList`1 filters, Int32 filterIndex, ResultExecutingContext preContext, ControllerContext controllerContext, ActionResult actionResult)
+   at System.Web.Mvc.ControllerActionInvoker.InvokeActionResultWithFilters(ControllerContext controllerContext, IList`1 filters, ActionResult actionResult)
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass21.<>c__DisplayClass2b.<BeginInvokeAction>b__1c()
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass21.<BeginInvokeAction>b__1e(IAsyncResult asyncResult)
+ERROR 2014-10-01 22:25:25,211 [9    ] Default                                  - The view '~/App/Main/views/task/new.cshtml' or its master was not found or no view engine supports the searched locations. The following locations were searched:
+~/App/Main/views/task/new.cshtml
+System.InvalidOperationException: The view '~/App/Main/views/task/new.cshtml' or its master was not found or no view engine supports the searched locations. The following locations were searched:
+~/App/Main/views/task/new.cshtml
+   at System.Web.Mvc.ViewResult.FindView(ControllerContext context)
+   at System.Web.Mvc.ViewResultBase.ExecuteResult(ControllerContext context)
+   at System.Web.Mvc.ControllerActionInvoker.InvokeActionResult(ControllerContext controllerContext, ActionResult actionResult)
+   at System.Web.Mvc.ControllerActionInvoker.InvokeActionResultFilterRecursive(IList`1 filters, Int32 filterIndex, ResultExecutingContext preContext, ControllerContext controllerContext, ActionResult actionResult)
+   at System.Web.Mvc.ControllerActionInvoker.InvokeActionResultFilterRecursive(IList`1 filters, Int32 filterIndex, ResultExecutingContext preContext, ControllerContext controllerContext, ActionResult actionResult)
+   at System.Web.Mvc.ControllerActionInvoker.InvokeActionResultWithFilters(ControllerContext controllerContext, IList`1 filters, ActionResult actionResult)
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass21.<>c__DisplayClass2b.<BeginInvokeAction>b__1c()
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass21.<BeginInvokeAction>b__1e(IAsyncResult asyncResult)
+ERROR 2014-10-01 22:25:26,542 [11   ] Default                                  - The view '~/App/Main/views/task/list.cshtml' or its master was not found or no view engine supports the searched locations. The following locations were searched:
+~/App/Main/views/task/list.cshtml
+System.InvalidOperationException: The view '~/App/Main/views/task/list.cshtml' or its master was not found or no view engine supports the searched locations. The following locations were searched:
+~/App/Main/views/task/list.cshtml
+   at System.Web.Mvc.ViewResult.FindView(ControllerContext context)
+   at System.Web.Mvc.ViewResultBase.ExecuteResult(ControllerContext context)
+   at System.Web.Mvc.ControllerActionInvoker.InvokeActionResult(ControllerContext controllerContext, ActionResult actionResult)
+   at System.Web.Mvc.ControllerActionInvoker.InvokeActionResultFilterRecursive(IList`1 filters, Int32 filterIndex, ResultExecutingContext preContext, ControllerContext controllerContext, ActionResult actionResult)
+   at System.Web.Mvc.ControllerActionInvoker.InvokeActionResultFilterRecursive(IList`1 filters, Int32 filterIndex, ResultExecutingContext preContext, ControllerContext controllerContext, ActionResult actionResult)
+   at System.Web.Mvc.ControllerActionInvoker.InvokeActionResultWithFilters(ControllerContext controllerContext, IList`1 filters, ActionResult actionResult)
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass21.<>c__DisplayClass2b.<BeginInvokeAction>b__1c()
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass21.<BeginInvokeAction>b__1e(IAsyncResult asyncResult)
